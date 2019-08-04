@@ -1,4 +1,7 @@
+gcid	日本語名
+abbey	Abbey
 aboriginal_art_gallery	アボリジニ アート ギャラリー
+addiction_treatment_center	依存症治療センター
 adoption_agency	養子縁組あっせん業者
 adult_dvd_store	アダルト DVD 販売店
 aero_dance_class	エアロダンス教室
@@ -25,6 +28,7 @@ bank	銀行
 bar	バー
 beach_pavillion	屋根付き施設
 betting_agency	賭け代行業
+biochemistry_lab	Biochemistry lab
 buddhist_supplies_store	仏教徒向け用品店
 cable_company	ケーブル会社
 cafe	カフェ・喫茶
@@ -36,16 +40,20 @@ campground	キャンプ場
 camping_store	キャンプ用品店
 canoeing_area	カヌースポット
 cantabrian_restaurant	カンタブリア料理店（スペイン）
+carabinieri_police	Carabinieri police
 carnival_club	カーニバル クラブ
 carpet_store	カーペット・じゅうたん販売店
 catalonian_restaurant	カタロニア料理店（スペイン）
 cattery	猫預かり所
 chankonabe_restaurant	ちゃんこ料理店
+chemistry_lab	Chemistry lab
 childrens_theater	児童向け映画館
 christian_book_store	キリスト教書店
 christian_church	キリスト教教会
 church_of_christ	キリスト教会
 circus	サーカス
+clothes_and_fabric_manufacturer	Clothes and fabric manufacturer
+clothes_and_fabric_wholesaler	Clothes and fabric wholesaler
 clothing_store	衣料品店
 coin_operated_locker	コインロッカー
 colombian_restaurant	コロンビア料理店
@@ -54,7 +62,17 @@ computer_security_service	コンピュータ セキュリティ業
 computer_software_store	コンピュータ ソフトウェア専門店
 computer_support_and_services	コンピューター サポート、サービス
 computer_training_school	コンピュータ教室
+concrete_factory	Concrete factory
+condiments_supplier	Condiments supplier
+conference_center	会議場
+conservative_club	Conservative club
+conservatory_of_music	Conservatory of music
+construction_company	建設会社
+consultant	コンサルタント
+container_supplier	Container supplier
+container_terminal	Container terminal
 contemporary_louisiana_restaurant	現代ルイジアナ料理店（アメリカ）
+contractor	請負業者
 convenience_store	コンビニエンスストア
 convenience_stores_organization	コンビニエンス ストア関連団体
 cookie_shop	クッキー店
@@ -67,8 +85,10 @@ cured_ham_bar	塩漬けハムのバー
 cured_ham_store	塩漬けハム店
 custom_label_printer	カスタムラベル印刷業者
 custom_t_shirt_store	カスタム T シャツ専門店
+database_management_company	Database management company
 dessert_buffet	スイーツおよびデザート ビュッフェ
 diaper_service	おむつサービス
+disposable_tableware_supplier	Disposable tableware supplier
 doctor	医者
 dog_day_care_center	犬の一時預かり
 dojo_restaurant	どじょう料理店
@@ -80,9 +100,12 @@ engineer	エンジニア
 english_restaurant	イギリス料理店
 environment_renewable_natural_resources	環境および再生可能天然資源
 ethiopian_restaurant	エチオピア料理店
+fabric_product_manufacturer	Fabric product manufacturer
+fabrication_engineer	Fabrication engineer
 fashion_accessories_store	ファッション アクセサリー店
 foreclosure_service	物件差し押さえ業
 fortune_telling_services	占いサービス
+fruit_and_vegetable_wholesaler	Fruit and vegetable wholesaler
 gambling_instructor	カジノ インストラクター
 gas_station	ガソリンスタンド
 graffiti_removal_service	落書き除去業
@@ -91,6 +114,7 @@ grocery_store	スーパーマーケット
 gym	スポーツジム
 haunted_house	お化け屋敷
 home_goods_store	インテリア用品店
+horse_boarding_stable	馬小屋
 hospital	病院
 hotel	ホテル
 house_sitter	留守預かり人
@@ -125,11 +149,16 @@ konkani_restaurant	コンカニ料理レストラン
 kosher_grocery_store	コーシャー食料品店
 kung_fu_school	カンフー教室
 kushiyaki_restaurant	串焼き店
+laboratory	Laboratory
+labour_club	Labour club
 lodging	宿泊所
 lottery_retailer	宝くじ売り場
 lottery_shop	宝くじ売り場
 luggage_store	かばん店
 mailbox_supplier	郵便受け製造業者
+medical_lab	医療研究所
+metal_fabricator	Metal fabricator
+modular_home_builder	モジュラー ホーム建築業者
 motorcycle_driving_school	オートバイの自動車学校
 movie_theater	映画館
 museum	博物館 / 美術館
@@ -152,12 +181,16 @@ pharmacy	調剤薬局
 philharmonic_hall	コンサート ホール
 plus_size_clothing_store	大きいサイズの服専門店
 pork_cutlet_rice_bowl_restaurant	かつ丼屋
+portable_toilet_supplier	Portable toilet supplier
+prefabricated_house_companies	Prefabricated house companies
 psychic	占い師
 public_bathroom	公衆トイレ
+public_wheelchair_accessible_bathroom	障害者用公衆トイレ
 quebecois_restaurant	ケベック料理店（カナダ）
 quilt_shop	キルト専門店
 raft_trip_outfitter	いかだ用具レンタル業者
 rafting	いかだ下り
+rehabilitation_center	リハビリ センター
 rest_stop	サービスエリア
 restaurant	レストラン
 roofing_contractor	屋根ふき業者
@@ -200,6 +233,7 @@ stock_exchange_building	Stock exchange building
 store	店舗
 stove_builder	Stove builder
 supermarket	スーパーマーケット
+tabascan_restaurant	Tabascan restaurant
 takoyaki_stand	たこ焼き屋
 tanning_studio	日焼けサロン
 telemarketing_service	テレマーケティング業
